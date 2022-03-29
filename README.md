@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Agata</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-<!--
-**AgataKrz/AgataKrz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on [Analysis Project based on Hotel Data](https://github.com/AgataKrz/Hotel-Data-Analysis)
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **SQL, Tableau, PowerBI**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 I’m looking to collaborate on **data analysis/data science projects**
+
+- 👨‍💻 All of my projects are available at [https://github.com/AgataKrz?tab=repositories or https://public.tableau.com/app/profile/agata.krzywicka](https://github.com/AgataKrz?tab=repositories or https://public.tableau.com/app/profile/agata.krzywicka)
+
+- 📫 How to reach me **agatakrzywicka@icloud.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
