@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **data analysis/data science projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AgataKrz?tab=repositories or https://public.tableau.com/app/profile/agata.krzywicka](https://github.com/AgataKrz?tab=repositories or https://public.tableau.com/app/profile/agata.krzywicka)
+- 👨‍💻 All of my projects are available at [https://github.com/AgataKrz?tab=repositories or https://public.tableau.com/app/profile/agata.krzywicka]
 
 - 📫 How to reach me **agatakrzywicka@icloud.com**
 
